@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "himicoFx"
+version = "0.1.0"
+description = "Telegram bot analisis teknikal kripto"
+authors = ["kamu"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.scripts]
+start = "main:app"
