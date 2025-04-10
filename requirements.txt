@@ -1,8 +1,6 @@
-pandas
-numpy
-matplotlib
-ta
-python-telegram-bot==20.3
-Flask
 requests
-schedule
+pandas
+matplotlib
+python-telegram-bot==20.7
+flask
+ta
