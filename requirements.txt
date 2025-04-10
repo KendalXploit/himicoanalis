@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+ta
+python-telegram-bot==20.3
+Flask
+requests
+schedule
